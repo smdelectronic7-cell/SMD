@@ -70,7 +70,7 @@
 <!-- ================= HEADER ================= -->
 <header class="flex items-center justify-between gap-4 p-6 pt-16 sm:pt-6 pl-20">
   <div class="flex items-center gap-3">
-    <img src="images/IMG_20260124_112420_864.jpg"
+    <img src="-image-300d47bd-a602-495b-a9c6-57d9dbf8f8a3
          alt="SMD Electronic Security Services Logo"
          class="h-20 w-auto">
     <h1 class="text-2xl sm:text-3xl font-bold">
