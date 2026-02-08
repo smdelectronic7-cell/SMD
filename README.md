@@ -34,7 +34,7 @@
       access control & intercom systems.
     </p>
 
-    <img src="images/Screenshot_20260124-082414~2.png"
+    <img src="images/84a15af4-380a-4947-b39b-99bca86899f2"
          class="w-full rounded mb-6"
          alt="Our Work">
 
@@ -70,7 +70,7 @@
 <!-- ================= HEADER ================= -->
 <header class="flex items-center justify-between gap-4 p-6 pt-16 sm:pt-6 pl-20">
   <div class="flex items-center gap-3">
-    <img src="-image-300d47bd-a602-495b-a9c6-57d9dbf8f8a3
+    <img src="-image-300d47bd-a602-495b-a9c6-57d9dbf8f8a3"
          alt="SMD Electronic Security Services Logo"
          class="h-20 w-auto">
     <h1 class="text-2xl sm:text-3xl font-bold">
@@ -96,7 +96,7 @@
   <h2 class="text-3xl font-bold mb-4">CONTACT SMD ELECTRONIC SECURITY SERVICES </h2>
   <p>📍 Nsakina – Accra</p>
   <p>🕘 Monday – Saturday | 7:00 AM – 5:00 PM</p>
-  <p class="mt-4">📞 +233 256 033 072</p>
+  <p class="mt-4">📞 +233 248 622 823</p>
   <p>✉️ smdelectronic7@gmail.com</p>
 </section>
 
